@@ -15,11 +15,11 @@
 <br>
 
 <a href="mailto:mariem.elloumi111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mariem.elloumi111%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-mariem.elloumi111%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mariem-elloumi-1284b0313/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -139,9 +139,7 @@ My current focus is strengthening my knowledge in **Machine Learning, Deep Learn
 <br>
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### Data Foundations
@@ -170,9 +168,7 @@ Currently developing deeper knowledge in:
 - Data Analysis
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -192,9 +188,7 @@ Currently developing deeper knowledge in:
 <br>
 
 <table width="100%">
-
 <tr>
-
 <td width="50%" valign="top">
 
 - Full-stack application development
@@ -212,9 +206,7 @@ Currently developing deeper knowledge in:
 - Accessibility-oriented development
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -222,7 +214,6 @@ Currently developing deeper knowledge in:
 ## Selected Projects
 
 <table width="100%">
-
 <tr>
 
 <td width="50%" valign="top">
@@ -321,7 +312,6 @@ The application also integrated AI-assisted functionality including chatbots, Sp
 </td>
 
 </tr>
-
 </table>
 
 <details>
@@ -336,7 +326,7 @@ Backend development for a startup web platform, focusing on API development, app
 
 `PHP` `MySQL`
 
-[View Repository](https://github.com/mari1on/la_roublai)
+Repository: [mari1on/la_roublai](https://github.com/mari1on/la_roublai)
 
 ---
 
@@ -382,13 +372,13 @@ University game-development project.
 
 ---
 
-## GitHub Metrics
+## GitHub Metrics & Stats Dashboard
 
 <div align="center">
 
 <img
   width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mari1on&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=rise"
   alt="Mariem Elloumi GitHub Profile Details"
 />
 
@@ -396,13 +386,13 @@ University game-development project.
 
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mari1on&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
   alt="Top Languages by Repository"
 />
 
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mari1on&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
   alt="Top Languages by Commit"
 />
 
@@ -432,14 +422,14 @@ University game-development project.
 
 <a href="mailto:mariem.elloumi111@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-mariem.elloumi111%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    src="https://img.shields.io/badge/Email-mariem.elloumi111%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/mariem-elloumi-1284b0313/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
