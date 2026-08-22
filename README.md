@@ -1,3 +1,4 @@
+```md
 <div align="center">
 
 # Mariem Elloumi
@@ -13,11 +14,12 @@
 
 <br>
 
-<a href="https://github.com/mari1on">
-  <img src="https://img.shields.io/badge/GitHub-mari1on-181717?style=flat-square&logo=github&logoColor=white" />
+<a href="mailto:mariem.elloumi111@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mariem.elloumi111%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
+
 <a href="https://www.linkedin.com/in/mariem-elloumi-1284b0313/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-181717?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 
 </div>
@@ -39,9 +41,9 @@ My current focus is strengthening my knowledge in **Machine Learning, Deep Learn
 <div align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=python,angular,spring,symfony&theme=dark"
-height="82"
-alt="Core Tech Stack"
+  src="https://go-skill-icons.vercel.app/api/icons?i=python,angular,spring,symfony&theme=dark"
+  height="82"
+  alt="Core Tech Stack"
 />
 
 </div>
@@ -58,9 +60,9 @@ alt="Core Tech Stack"
 <td align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,php,javascript,html,css&theme=dark"
-height="54"
-alt="Languages"
+  src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,php,javascript,html,css&theme=dark"
+  height="54"
+  alt="Languages"
 />
 
 <br><br>
@@ -78,9 +80,9 @@ alt="Languages"
 <td align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=angular,spring,symfony,twig,flutterflow&theme=dark"
-height="54"
-alt="Frameworks"
+  src="https://go-skill-icons.vercel.app/api/icons?i=angular,spring,symfony,twig,flutterflow&theme=dark"
+  height="54"
+  alt="Frameworks"
 />
 
 </td>
@@ -94,9 +96,9 @@ alt="Frameworks"
 <td align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,opencv&theme=dark"
-height="54"
-alt="Data Science Tools"
+  src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,opencv&theme=dark"
+  height="54"
+  alt="Data Science Tools"
 />
 
 </td>
@@ -110,9 +112,9 @@ alt="Data Science Tools"
 <td align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=mysql,git,github,vscode&theme=dark"
-height="54"
-alt="Database and Development Tools"
+  src="https://go-skill-icons.vercel.app/api/icons?i=mysql,git,github,vscode&theme=dark"
+  height="54"
+  alt="Database and Development Tools"
 />
 
 </td>
@@ -127,9 +129,9 @@ alt="Database and Development Tools"
 <div align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,opencv&theme=dark"
-height="72"
-alt="Python NumPy pandas OpenCV"
+  src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,opencv&theme=dark"
+  height="72"
+  alt="Python NumPy pandas OpenCV"
 />
 
 </div>
@@ -137,18 +139,20 @@ alt="Python NumPy pandas OpenCV"
 <br>
 
 <table width="100%">
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### Data Foundations
 
 Academic experience with:
 
-* Python for data-oriented programming
-* NumPy
-* pandas
-* Data analysis concepts
-* Machine Learning fundamentals
+- Python for data-oriented programming
+- NumPy
+- pandas
+- Data analysis concepts
+- Machine Learning fundamentals
 
 </td>
 
@@ -160,13 +164,15 @@ Previous experience using **OpenCV** for a camera-based project focused on detec
 
 Currently developing deeper knowledge in:
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Data Analysis
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Analysis
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -176,9 +182,9 @@ Currently developing deeper knowledge in:
 <div align="center">
 
 <img
-src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark"
-height="78"
-alt="Software Engineering Tools"
+  src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark"
+  height="78"
+  alt="Software Engineering Tools"
 />
 
 </div>
@@ -186,25 +192,29 @@ alt="Software Engineering Tools"
 <br>
 
 <table width="100%">
+
 <tr>
+
 <td width="50%" valign="top">
 
-* Full-stack application development
-* Backend development
-* REST API development
-* Database design and integration
+- Full-stack application development
+- Backend development
+- REST API development
+- Database design and integration
 
 </td>
 
 <td width="50%" valign="top">
 
-* Version control with Git & GitHub
-* Team-based software development
-* AI feature integration
-* Accessibility-oriented development
+- Version control with Git & GitHub
+- Team-based software development
+- AI feature integration
+- Accessibility-oriented development
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -212,6 +222,7 @@ alt="Software Engineering Tools"
 ## Selected Projects
 
 <table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -245,7 +256,7 @@ A major part of the project was an <strong>AI-powered assistant</strong> designe
 <h3>MaraTech Hackathon 2026</h3>
 
 <p>
-Built an accessibility platform in <strong>42 hours</strong> with two teammates during the MaraTech Hackathon at ESPRIT.
+Built an accessibility platform in <strong>42 hours</strong> with two teammates during the MaraTech Hackathon.
 </p>
 
 <p>
@@ -310,6 +321,7 @@ The application also integrated AI-assisted functionality including chatbots, Sp
 </td>
 
 </tr>
+
 </table>
 
 <details>
@@ -324,7 +336,7 @@ Backend development for a startup web platform, focusing on API development, app
 
 `PHP` `MySQL`
 
-Repository: [mari1on/la_roublai](https://github.com/mari1on/la_roublai)
+[View Repository](https://github.com/mari1on/la_roublai)
 
 ---
 
@@ -370,66 +382,28 @@ University game-development project.
 
 ---
 
-## GitHub Metrics & Stats Dashboard
+## GitHub Metrics
 
 <div align="center">
 
 <img
-width="98%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=rise"
-alt="Mariem Elloumi GitHub Profile Details"
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mari1on&theme=github_dark"
+  alt="Mariem Elloumi GitHub Profile Details"
 />
 
 <br><br>
 
 <img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
-alt="Top Languages by Repository"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mari1on&theme=github_dark"
+  alt="Top Languages by Repository"
 />
 
 <img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
-alt="Top Languages by Commit"
-/>
-
-<br><br>
-
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=rise"
-alt="GitHub Stats"
-/>
-
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mari1on&theme=github_dark&utcOffset=1&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
-alt="Productive Time"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="78%"
-src="https://streak-stats.demolab.com?user=mari1on&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="98%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=mari1on&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Mariem%20Elloumi%20-%20Contribution%20Graph"
-alt="Mariem Elloumi Contribution Graph"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mari1on&theme=github_dark"
+  alt="Top Languages by Commit"
 />
 
 </div>
@@ -441,11 +415,11 @@ alt="Mariem Elloumi Contribution Graph"
 <div align="center">
 
 `Machine Learning`
-  ·  
+&nbsp;&nbsp;·&nbsp;&nbsp;
 `Artificial Intelligence`
-  ·  
+&nbsp;&nbsp;·&nbsp;&nbsp;
 `Deep Learning`
-  ·  
+&nbsp;&nbsp;·&nbsp;&nbsp;
 `Data Analysis`
 
 </div>
@@ -456,16 +430,16 @@ alt="Mariem Elloumi Contribution Graph"
 
 <div align="center">
 
-<a href="https://github.com/mari1on">
+<a href="mailto:mariem.elloumi111@gmail.com">
   <img
-    src="https://img.shields.io/badge/GitHub-mari1on-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
+    src="https://img.shields.io/badge/Email-mariem.elloumi111%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    alt="Email"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/mariem-elloumi-1284b0313/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
     alt="LinkedIn"
   />
 </a>
@@ -479,3 +453,4 @@ alt="Mariem Elloumi Contribution Graph"
 <sub>Data Science · Artificial Intelligence · Full-Stack Development</sub>
 
 </div>
+```
