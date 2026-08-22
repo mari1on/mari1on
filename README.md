@@ -1,152 +1,481 @@
 <div align="center">
 
-<h1>Mariem Elloumi</h1>
+# Mariem Elloumi
+
+### Data Science Student · Full-Stack Developer
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=4th-Year+Data+Science+Student;Full-Stack+Developer;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=4th-Year+Data+Science+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+%26+Accessible+Applications"
+    alt="Typing SVG"
+  />
+</a>
+
+<br>
+
+<a href="https://github.com/mari1on">
+  <img src="https://img.shields.io/badge/GitHub-mari1on-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mariem-elloumi-1284b0313/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
+
+---
+
+## About Me
+
+I'm a fourth-year **Data Science student** with a strong background in **full-stack development** and a growing focus on **Artificial Intelligence and Machine Learning**.
+
+I enjoy turning technical ideas into real applications — from AI-assisted cybersecurity tools and career platforms to accessibility solutions and computer-vision projects.
+
+My current focus is strengthening my knowledge in **Machine Learning, Deep Learning, Data Analysis and Artificial Intelligence**, while continuing to build complete software applications.
+
+---
+
 ## Tech Stack
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" alt="Java"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="70" alt="PHP"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="70" alt="Angular"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="70" alt="Spring"/>
-</p>
+<div align="center">
+
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=python,angular,spring,symfony&theme=dark"
+height="82"
+alt="Core Tech Stack"
+/>
+
+</div>
+
+<br>
+
+<table width="100%">
+
+<tr>
+<td width="27%" align="center">
+<strong>Languages & Core</strong>
+</td>
+
+<td align="center">
+
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,php,javascript,html,css&theme=dark"
+height="54"
+alt="Languages"
+/>
+
+<br><br>
+
+<code>SQL</code>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>Web & Application</strong>
+</td>
+
+<td align="center">
+
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=angular,spring,symfony,twig,flutterflow&theme=dark"
+height="54"
+alt="Frameworks"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>Data Science</strong>
+</td>
+
+<td align="center">
+
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,opencv&theme=dark"
+height="54"
+alt="Data Science Tools"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>Database & Tools</strong>
+</td>
+
+<td align="center">
+
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=mysql,git,github,vscode&theme=dark"
+height="54"
+alt="Database and Development Tools"
+/>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## Data Science & Computer Vision
+
+<div align="center">
+
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,opencv&theme=dark"
+height="72"
+alt="Python NumPy pandas OpenCV"
+/>
+
+</div>
+
+<br>
+
 <table width="100%">
 <tr>
-<td width="28%" align="center">
-<b>Languages & Core</b>
-</td>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css&theme=dark" />
+### Data Foundations
 
-<br><br>
+Academic experience with:
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" />
-
-&nbsp; `SQL`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Full-Stack</b>
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=angular,spring,symfony,php,js&theme=dark" />
-
-<br><br>
-
-`FlutterFlow`
+* Python for data-oriented programming
+* NumPy
+* pandas
+* Data analysis concepts
+* Machine Learning fundamentals
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
-<b>Data & AI</b>
-</td>
-<td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+### Computer Vision
 
-&nbsp;&nbsp;
+Previous experience using **OpenCV** for a camera-based project focused on detecting medical equipment.
 
-`Machine Learning`
-`Artificial Intelligence`
-`Data Analysis`
+Currently developing deeper knowledge in:
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Database & Tools</b>
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
-
-&nbsp;&nbsp;
-
-`SQL`
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Analysis
 
 </td>
 </tr>
 </table>
+
+---
+
 ## Software Engineering
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+<div align="center">
 
-- Full-Stack Development
-- REST API Development
-- Backend Development
-- Database Design & Integration
-- Version Control
-- Team-Based Development
-- AI Integration
-  ## Selected Projects
+<img
+src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark"
+height="78"
+alt="Software Engineering Tools"
+/>
 
-### Cybersecurity Event & Incident Management Platform — Telnet
-
-Cybersecurity management platform for events, incidents, risks, dashboards and notifications, with an AI-powered assistant for incident analysis, form completion and recommendations.
-
-`Angular` `Spring Boot` `Python` `Machine Learning` `MySQL`
-
----
-
-### MaraTech Hackathon 2026
-
-Accessibility platform built in 42 hours with head-movement navigation, blink-to-click interaction, Speech-to-Text, Text-to-Speech, accessibility modes and dyslexia-oriented reading tools.
-
-`Symfony` `PHP` `Twig` `MySQL`
-
----
-
-### CarriereTN
-
-Career platform for young graduates in Tunisia integrating an AI chatbot, automatic form completion, speech features, maps and intelligent recommendations.
-
-`Symfony` `PHP` `Python` `Machine Learning` `MySQL`
-
----
-
-<details>
-<summary><b>More projects</b></summary>
+</div>
 
 <br>
 
-**FlutterFlow Marketplace**  
-Mobile marketplace with AI chatbot and speech features.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**La Ruble**  
-Backend and database development for a startup web platform.
+* Full-stack application development
+* Backend development
+* REST API development
+* Database design and integration
 
-**Firma-Tak**  
-Full-stack platform supporting local farmers in Tunisia.
+</td>
 
-**Magazine Website**  
-Client frontend project.
+<td width="50%" valign="top">
 
-**Intelligent Vaccination Center**  
-C++ and SQL vaccination-management system.
+* Version control with Git & GitHub
+* Team-based software development
+* AI feature integration
+* Accessibility-oriented development
 
-**2D Game**  
-University game-development project in C.
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Projects
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/mari1on/telnet">
+Cybersecurity Management Platform — Telnet
+</a>
+</h3>
+
+<p>
+Developed during my internship at <strong>Telnet</strong> to manage cybersecurity events, incidents, risks, dashboards and notifications.
+</p>
+
+<p>
+A major part of the project was an <strong>AI-powered assistant</strong> designed to help security managers analyze incidents, automatically complete forms and recommend appropriate actions.
+</p>
+
+<p>
+<code>Angular</code>
+<code>Spring Boot</code>
+<code>Python</code>
+<code>Machine Learning</code>
+<code>MySQL</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>MaraTech Hackathon 2026</h3>
+
+<p>
+Built an accessibility platform in <strong>42 hours</strong> with two teammates during the MaraTech Hackathon at ESPRIT.
+</p>
+
+<p>
+The platform included head-movement navigation, blink-to-click interaction, Speech-to-Text, Text-to-Speech, adjustable interfaces, high-contrast modes and simplified reading tools.
+</p>
+
+<p>
+<code>Symfony</code>
+<code>PHP</code>
+<code>Twig</code>
+<code>MySQL</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/mari1on/ESPRIT-PI-3A26-2026-CarriereTN">
+CarriereTN
+</a>
+</h3>
+
+<p>
+Career platform designed to help young graduates in Tunisia discover internships and employment opportunities.
+</p>
+
+<p>
+Features include an AI chatbot, automatic form completion, Speech-to-Text, Text-to-Speech, interactive maps and intelligent recommendation functionality.
+</p>
+
+<p>
+<code>Symfony</code>
+<code>PHP</code>
+<code>Python</code>
+<code>Machine Learning</code>
+<code>MySQL</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>FlutterFlow Marketplace</h3>
+
+<p>
+Mobile marketplace developed with a team for anime merchandise and 3D anime characters.
+</p>
+
+<p>
+The application also integrated AI-assisted functionality including chatbots, Speech-to-Text and Text-to-Speech.
+</p>
+
+<p>
+<code>FlutterFlow</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<details>
+
+<summary><strong>View more projects</strong></summary>
+
+<br>
+
+### La Ruble — Backend Development
+
+Backend development for a startup web platform, focusing on API development, application logic and database management.
+
+`PHP` `MySQL`
+
+Repository: [mari1on/la_roublai](https://github.com/mari1on/la_roublai)
+
+---
+
+### Firma-Tak
+
+Full-stack web platform developed by a six-student team to support local farmers in Tunisia.
+
+`PHP` `Symfony` `MySQL`
+
+---
+
+### Magazine Website
+
+Frontend website designed and developed for a client.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### Intelligent Vaccination Center
+
+Vaccination-center management application with database integration.
+
+`C++` `SQL`
+
+---
+
+### Medical Equipment Detection
+
+Computer-vision project using a camera and OpenCV for medical-equipment detection.
+
+`Python` `OpenCV`
+
+---
+
+### 2D Game
+
+University game-development project.
+
+`C`
 
 </details>
-- Software Documentation
-- Accessibility-Oriented Development
+
+---
+
+## GitHub Metrics & Stats Dashboard
+
+<div align="center">
+
+<img
+width="98%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=rise"
+alt="Mariem Elloumi GitHub Profile Details"
+/>
+
+<br><br>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
+alt="Top Languages by Repository"
+/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
+alt="Top Languages by Commit"
+/>
+
+<br><br>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=rise"
+alt="GitHub Stats"
+/>
+
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mari1on&theme=github_dark&utcOffset=1&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
+alt="Productive Time"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+width="78%"
+src="https://streak-stats.demolab.com?user=mari1on&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+alt="GitHub Streak"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mari1on&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Mariem%20Elloumi%20-%20Contribution%20Graph"
+alt="Mariem Elloumi Contribution Graph"
+/>
+
+</div>
+
+---
+
+## Current Focus
+
+<div align="center">
+
+`Machine Learning`
+  ·  
+`Artificial Intelligence`
+  ·  
+`Deep Learning`
+  ·  
+`Data Analysis`
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/mari1on">
+  <img
+    src="https://img.shields.io/badge/GitHub-mari1on-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/mariem-elloumi-1284b0313/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Mariem%20Elloumi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Data Science · Artificial Intelligence · Full-Stack Development</sub>
+
+</div>
