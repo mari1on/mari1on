@@ -20,3 +20,68 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="70" alt="Spring"/>
 </p>
+<table width="100%">
+<tr>
+<td width="28%" align="center">
+<b>Languages & Core</b>
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+
+&nbsp; `SQL`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Full-Stack</b>
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=angular,spring,symfony,php,js&theme=dark" />
+
+<br><br>
+
+`FlutterFlow`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Data & AI</b>
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+&nbsp;&nbsp;
+
+`Machine Learning`
+`Artificial Intelligence`
+`Data Analysis`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Database & Tools</b>
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" />
+
+&nbsp;&nbsp;
+
+`SQL`
+
+</td>
+</tr>
+</table>
