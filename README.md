@@ -1,292 +1,324 @@
 ```md
 <div align="center">
 
-# Hi 👋, I'm mariem elloumi
+# YOUR NAME
 
-### 🎓 4th-Year Data Science Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
+### 4th-Year Data Science Student · Full-Stack Developer · AI/ML
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=4th-Year+Data+Science+Student;Aspiring+Data+Scientist+%7C+AI%2FML+Enthusiast;Full-Stack+Developer+%7C+Building+Intelligent+Apps;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=4th-Year+Data+Science+Student;Full-Stack+Developer;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+%26+Accessible+Applications"
+    alt="Typing SVG"
+  />
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-- 🎓 Fourth-year **Data Science student**
-- 📊 Aspiring **Data Scientist**
-- 💻 **Full-Stack Developer**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🧠 Currently exploring **Deep Learning & Data Analysis**
-- ♿ Interested in building **accessible and impactful technology**
-- 🎨 Interested in **UI/UX Design**
-- 🚀 I enjoy turning AI ideas into practical applications
+I am a fourth-year **Data Science student** with a background in full-stack development.
+
+My work combines software development, data science and artificial intelligence to build practical applications — from cybersecurity platforms and accessibility tools to AI-assisted career platforms.
+
+Currently focused on **Machine Learning, Artificial Intelligence, Deep Learning and Data Analysis**.
 
 ---
 
-## 🛠️ Tech Stack
-
-| | Technologies |
-|---|---|
-| **🧠 Languages & Core** | <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css&theme=dark" /> |
-| **🌐 Full-Stack Development** | <img src="https://skillicons.dev/icons?i=angular,spring,symfony&theme=dark" /> &nbsp; **FlutterFlow** |
-| **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /> &nbsp; **SQL** |
-| **🔧 Development Tools** | <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> |
-| **🤖 AI & Data Science** | **Python · Machine Learning · Artificial Intelligence · Deep Learning · Data Analysis** |
-
----
-
-## 🚀 Projects
-
-### 🛡️ Cybersecurity Event & Incident Management Platform — Telnet
-
-Developed a cybersecurity management platform during my internship at **Telnet** for managing events, incidents, risks, dashboards, and notifications.
-
-A major feature of the platform was an **AI-powered assistant** designed to help security managers:
-
-- Automatically complete incident forms
-- Analyze cybersecurity incidents
-- Recommend appropriate actions
-- Reduce response time using AI and Machine Learning techniques
-
-**Technologies:**  
-`Angular` · `Spring Boot` · `Python` · `Machine Learning` · `MySQL`
-
----
-
-### ♿ MaraTech Hackathon 2026 — ESPRIT
-
-Developed an accessibility platform in **42 hours** with two teammates during the **MaraTech Hackathon 2026**.
-
-The goal was to create digital solutions that improve accessibility and digital inclusion.
-
-#### Key Features
-
-- 👤 Head movement navigation
-- 👁️ Blink-to-click interaction
-- ⌨️ Single-key navigation
-- 🔊 Text-to-Speech
-- 🎙️ Speech-to-Text
-- 🔎 Adjustable text size
-- 🖱️ Enlarged cursor
-- 🎨 High-contrast accessibility modes
-- 📖 Simplified reading mode for people with dyslexia
-
-The goal was to improve users' **independence, confidence, and access to digital services**.
-
-**Technologies:**  
-`Symfony` · `PHP` · `Twig` · `MySQL`
-
----
-
-### 💼 CarriereTN
-
-Developed a web platform helping young graduates in Tunisia discover **internships and job opportunities**.
-
-The platform integrates several AI-powered features:
-
-- 🤖 AI chatbot
-- 📝 Automatic form completion
-- 🎙️ Speech-to-Text
-- 🔊 Text-to-Speech
-- 🗺️ Interactive maps
-- 🎫 Event reservation
-- 🧠 Machine Learning functionalities for personalized assistance and recommendations
-
-**Technologies:**  
-`Symfony` · `PHP` · `Python` · `Machine Learning` · `MySQL`
-
----
-
-### 📱 FlutterFlow Marketplace
-
-Developed a mobile marketplace application with my team for selling **anime merchandise and 3D anime characters**.
-
-The application also integrates AI-powered functionality including:
-
-- 🤖 Chatbots
-- 🎙️ Speech-to-Text
-- 🔊 Text-to-Speech
-
-**Technologies:**  
-`FlutterFlow`
-
----
-
-### 🏢 Startup Backend Development — La Ruble
-
-Developed the backend of a web platform for the startup **La Ruble**, focusing on:
-
-- API development
-- Business logic
-- Database management
-
-**Technologies:**  
-`PHP` · `MySQL`
-
----
-
-### 📰 Magazine Website
-
-Designed and developed the frontend of a magazine website for a client.
-
-**Technologies:**  
-`HTML` · `CSS` · `JavaScript`
-
----
-
-### 🚜 Firma-Tak
-
-Developed a full-stack platform designed to support **local farmers in Tunisia**.
-
-The project included frontend and backend development and was created collaboratively by a team of six students.
-
-**Technologies:**  
-`PHP` · `Symfony` · `MySQL`
-
----
-
-### 💉 Intelligent Vaccination Center
-
-Developed an intelligent vaccination management system with database integration for managing vaccination centers.
-
-**Technologies:**  
-`C++` · `SQL`
-
----
-
-### 🎮 2D Game
-
-Designed and developed a 2D game as part of a university project.
-
-**Technologies:**  
-`C`
-
----
-
-## 🌱 Currently Learning
+## Tech Stack
 
 <p align="center">
-
-`Machine Learning` &nbsp; • &nbsp;
-`Artificial Intelligence` &nbsp; • &nbsp;
-`Deep Learning` &nbsp; • &nbsp;
-`Data Analysis`
-
+  <img
+    src="https://skillicons.dev/icons?i=py,java,c,cpp,php,js,html,css,angular,spring,symfony,mysql,git,github&theme=dark&perline=14"
+    alt="Tech Stack"
+  />
 </p>
 
----
+<br>
 
-# 🐍 Watch My Contributions Get Eaten
+<table>
+<tr>
+<td width="25%" align="center"><strong>Languages & Core</strong></td>
+<td>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,php,js,html,css&theme=dark" alt="Languages" />
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
-  />
-</picture>
+<br>
 
-</div>
+`SQL`
 
----
+</td>
+</tr>
 
-# 📊 GitHub Metrics & Stats Dashboard
+<tr>
+<td align="center"><strong>Frameworks</strong></td>
+<td>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,spring,symfony&theme=dark" alt="Frameworks" />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"
-/>
+<br>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"
-/>
+`FlutterFlow`
 
-</div>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td align="center"><strong>Data & Databases</strong></td>
+<td>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" alt="Data and databases" />
 
-<img
-src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF"
-alt="GitHub Streak"
-/>
+<br>
 
-</div>
+`Data Science` · `Machine Learning` · `Data Analysis` · `SQL`
 
-<br/>
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td align="center"><strong>Development Tools</strong></td>
+<td>
 
-<img
-width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"
-/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Development tools" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark"
-/>
-
-<img
-width="48%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=FFFFFF&area=true&hide_border=true"
-alt="GitHub Activity Graph"
-/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+## AI & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" height="64" alt="Python" />
+</p>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mariemelloumi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+`Machine Learning`
+&nbsp;&nbsp;
+`Artificial Intelligence`
+&nbsp;&nbsp;
+`Data Analysis`
+&nbsp;&nbsp;
+`Deep Learning — Learning`
+
+</div>
+
+<br>
+
+My current focus is on applying data science and AI concepts inside real applications rather than treating them as isolated experiments.
+
+---
+
+## Software Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,angular,spring,symfony&theme=dark" alt="Software Engineering" />
+</p>
+
+- Full-stack application development
+- Backend and API development
+- Database design and integration
+- Version control with Git and GitHub
+- Team-based software projects
+- AI feature integration into web applications
+- Accessibility-oriented interface development
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Cybersecurity Management Platform
+
+**Telnet — Internship**
+
+Cybersecurity event and incident management platform for handling incidents, risks, dashboards and notifications.
+
+Integrated an AI-powered assistant capable of helping security managers analyze incidents, complete forms and recommend appropriate actions.
+
+**Stack**
+
+`Angular` `Spring Boot` `Python` `Machine Learning` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### MaraTech Hackathon 2026
+
+**Accessibility Platform — 42-hour Hackathon**
+
+Built with two teammates to improve digital accessibility.
+
+Features included head-movement navigation, blink-to-click, speech-to-text, text-to-speech, high-contrast modes and simplified reading tools.
+
+**Stack**
+
+`Symfony` `PHP` `Twig` `MySQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### CarriereTN
+
+Career platform designed to help young graduates in Tunisia find internships and employment opportunities.
+
+Includes an AI chatbot, automatic form completion, speech features, interactive maps and ML-assisted recommendations.
+
+**Stack**
+
+`Symfony` `PHP` `Python` `Machine Learning` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### FlutterFlow Marketplace
+
+Mobile marketplace developed with a team for anime merchandise and 3D anime characters.
+
+The application integrates chatbot, Speech-to-Text and Text-to-Speech functionality.
+
+**Stack**
+
+`FlutterFlow`
+
+</td>
+
+</tr>
+</table>
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+<br>
+
+### La Ruble — Backend Development
+
+Backend development for a startup platform, including API development, business logic and database management.
+
+`PHP` `MySQL`
+
+---
+
+### Firma-Tak
+
+Full-stack platform developed by a six-student team to support local farmers in Tunisia.
+
+`PHP` `Symfony` `MySQL`
+
+---
+
+### Magazine Website
+
+Frontend website developed for a client.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### Intelligent Vaccination Center
+
+Vaccination-center management application with database integration.
+
+`C++` `SQL`
+
+---
+
+### 2D Game
+
+University 2D game development project.
+
+`C`
+
+</details>
+
+---
+
+## GitHub Metrics
+
+<div align="center">
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+  alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+<img
+  width="47%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+  alt="Top Languages by Repository"
+/>
+
+<img
+  width="47%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=github_dark"
+  alt="GitHub Stats"
+/>
+
+<br><br>
+
+<img
+  width="80%"
+  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+`Machine Learning`
+&nbsp;&nbsp; · &nbsp;&nbsp;
+`Artificial Intelligence`
+&nbsp;&nbsp; · &nbsp;&nbsp;
+`Deep Learning`
+&nbsp;&nbsp; · &nbsp;&nbsp;
+`Data Analysis`
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mariemelloumi">
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ✨ Learning. Building. Improving.
 
 </div>
 ```
