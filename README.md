@@ -7,3 +7,16 @@
 </a>
 
 </div>
+## Tech Stack
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" alt="Java"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="70" alt="PHP"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="70" alt="Angular"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="70" alt="Spring"/>
+</p>
