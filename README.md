@@ -85,3 +85,18 @@
 </td>
 </tr>
 </table>
+## Software Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+- Full-Stack Development
+- REST API Development
+- Backend Development
+- Database Design & Integration
+- Version Control
+- Team-Based Development
+- AI Integration
+- Software Documentation
+- Accessibility-Oriented Development
