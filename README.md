@@ -396,43 +396,9 @@ alt="Top Languages by Commit"
 
 <br><br>
 
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mari1on&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=rise"
-alt="GitHub Stats"
-/>
 
-<img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mari1on&theme=github_dark&utcOffset=1&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&icon_color=58A6FF&chart_color=58A6FF&animation=draw"
-alt="Productive Time"
-/>
 
-</div>
 
-<br>
-
-<div align="center">
-
-<img
-width="78%"
-src="https://streak-stats.demolab.com?user=mari1on&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="98%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=mari1on&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Mariem%20Elloumi%20-%20Contribution%20Graph"
-alt="Mariem Elloumi Contribution Graph"
-/>
-
-</div>
 
 ---
 
