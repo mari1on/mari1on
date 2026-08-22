@@ -98,5 +98,55 @@
 - Version Control
 - Team-Based Development
 - AI Integration
+  ## Selected Projects
+
+### Cybersecurity Event & Incident Management Platform — Telnet
+
+Cybersecurity management platform for events, incidents, risks, dashboards and notifications, with an AI-powered assistant for incident analysis, form completion and recommendations.
+
+`Angular` `Spring Boot` `Python` `Machine Learning` `MySQL`
+
+---
+
+### MaraTech Hackathon 2026
+
+Accessibility platform built in 42 hours with head-movement navigation, blink-to-click interaction, Speech-to-Text, Text-to-Speech, accessibility modes and dyslexia-oriented reading tools.
+
+`Symfony` `PHP` `Twig` `MySQL`
+
+---
+
+### CarriereTN
+
+Career platform for young graduates in Tunisia integrating an AI chatbot, automatic form completion, speech features, maps and intelligent recommendations.
+
+`Symfony` `PHP` `Python` `Machine Learning` `MySQL`
+
+---
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+**FlutterFlow Marketplace**  
+Mobile marketplace with AI chatbot and speech features.
+
+**La Ruble**  
+Backend and database development for a startup web platform.
+
+**Firma-Tak**  
+Full-stack platform supporting local farmers in Tunisia.
+
+**Magazine Website**  
+Client frontend project.
+
+**Intelligent Vaccination Center**  
+C++ and SQL vaccination-management system.
+
+**2D Game**  
+University game-development project in C.
+
+</details>
 - Software Documentation
 - Accessibility-Oriented Development
